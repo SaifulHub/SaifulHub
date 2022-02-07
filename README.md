@@ -1,4 +1,3 @@
-- 👋 Hi, it's @SaifulHub
 - 👋 I'am Saiful Islam
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning and working with Node.js and Express.Js
